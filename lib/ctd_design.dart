@@ -1,3 +1,3 @@
 library ctd_design;
 
-export 'src/design.dart';
+export 'src/src.dart';
