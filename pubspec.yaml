@@ -1,0 +1,74 @@
+name: ctd_design
+description: "A custom design in flutter project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts:
+  #timepicker
+  flutter_datetime_picker:
+  #bottomsheet
+  modal_bottom_sheet:
+  #email
+  email_validator:
+  #check phone number
+  phone_number:
+  #network image
+  cached_network_image:
+  #pull refresh
+  pull_to_refresh:
+  #loading styled
+  loading_indicator:
+  #switch widget
+  flutter_switch:
+  #local storage
+  hive:
+  hive_flutter:
+  flutter_secure_storage:
+  #pincode
+  pin_code_fields:
+  #dashed border
+  dotted_border:
+  #push notification
+  firebase_core:
+  firebase_messaging:
+  flutter_local_notifications:
+  flutter_app_badger:
+  path_provider:
+  http:
+  photo_view:
+  #network
+  dio:
+  #action for number keyboard
+  keyboard_actions:
+  #svg picture
+  flutter_svg:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  assets:
+    - assets/icons/
+    - assets/images/
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts in packages, see
+  # https://flutter.dev/to/font-from-package
