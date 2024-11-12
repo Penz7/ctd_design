@@ -1,11 +1,11 @@
 name: ctd_design
 description: "A custom design in flutter project."
-version: 0.0.1
+version: 1.0.0
 homepage:
 
 environment:
-  sdk: ^3.5.4
-  flutter: ">=1.17.0"
+  sdk: '>=2.19.0 <3.0.0'
+  flutter: ">=2.5.0"
 
 dependencies:
   flutter:
