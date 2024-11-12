@@ -39,7 +39,6 @@ dependencies:
   firebase_core:
   firebase_messaging:
   flutter_local_notifications:
-  flutter_app_badger:
   path_provider:
   http:
   photo_view:
